@@ -1,0 +1,243 @@
+* {
+  margin: 0;
+  padding: o;
+  box-sizing: border-box;
+  /* opacity: 0.9; */
+}
+
+.div1 {
+  background-image: url(./img/bg.jpg);
+  min-height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   position: relative;
+  opacity: 0.7;
+}
+
+.cw {
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: white;
+  background-color: black;
+  padding: 2rem;
+  letter-spacing: 10px;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  font-size: 3rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 1rem;
+}
+
+.div2 {
+  background-color: #f1f1f1;
+  text-align: center;
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  display: block;
+  /* color: #666; */
+  opacity: 0.7;
+}
+
+.div2 h2 {
+  padding-top: 70px;
+  padding-bottom: 35px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.div2 p {
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-bottom: 70px;
+  line-height: 1.6em;
+}
+
+.div3 {
+  background-image: url(./img/bg2.jpg);
+  min-height: 520px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* border: 3px solid red; */
+  opacity: 0.7;
+}
+
+img {
+  width: 30%;
+  /* border: 5px solid red; */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.div4 {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  display: block;
+  opacity: 0.8;
+}
+
+.div4 h2 {
+  padding-top: 70px;
+  padding-bottom: 35px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.div4 p {
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-bottom: 70px;
+  line-height: 1.6em;
+}
+
+.div5 {
+  background-image: url(./img/bg3.jpg);
+  min-height: 520px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* border: 3px solid red; */
+  opacity: 0.7;
+}
+
+.way {
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: white;
+  background-color: black;
+  padding: 1rem;
+  letter-spacing: 10px;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  font-size: 2.2rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 0.3rem;
+}
+
+.div6 {
+  background-color: #f1f1f1;
+  text-align: center;
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  display: block;
+  /* color: #666; */
+  opacity: 0.7;
+}
+
+.div6 h2 {
+  padding-top: 70px;
+  padding-bottom: 35px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.div6 p {
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-bottom: 70px;
+  line-height: 1.6em;
+}
+
+.div7 {
+  background-image: url(./img/bg4.jpg);
+  min-height: 520px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* border: 3px solid red; */
+  opacity: 0.7;
+}
+
+.cla {
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: white;
+  background-color: black;
+  padding: 1rem;
+  letter-spacing: 10px;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  font-size: 2.2rem;
+  outline: 0.5rem inset purple;
+  outline-offset: 0.3rem;
+}
+
+.div8 {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  display: block;
+  opacity: 0.8;
+}
+
+.div8 h2 {
+  padding-top: 70px;
+  padding-bottom: 35px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.div8 p {
+  padding-left: 85px;
+  padding-right: 85px;
+  padding-bottom: 70px;
+  line-height: 1.6em;
+}
+
+.div9 {
+  background-image: url(./img/bg.jpg);
+  min-height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   position: relative;
+  opacity: 0.7;
+}
+
+.cho {
+  font-family: "Croissant One", cursive;
+  font-family: "Lato", sans-serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  color: white;
+  background-color: black;
+  /* width: 601px; */
+  padding: 2rem;
+  letter-spacing: 10px;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+  /* font-size: 3rem; */
+  outline: 0.5rem inset purple;
+  outline-offset: 1rem;
+  
+}
