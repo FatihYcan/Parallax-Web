@@ -7,12 +7,12 @@
 
 .div1 {
   background-image: url(./img/bg.jpg);
-  min-height: 650px;
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-   position: relative;
+  position: relative;
   opacity: 0.7;
 }
 
@@ -60,13 +60,12 @@
 
 .div3 {
   background-image: url(./img/bg2.jpg);
-  min-height: 520px;
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  /* border: 3px solid red; */
   opacity: 0.7;
 }
 
@@ -83,42 +82,44 @@ img {
   background-color: #000000;
   color: white;
   text-align: center;
-  font-family: "Croissant One", cursive;
-  font-family: "Lato", sans-serif;
   display: block;
   opacity: 0.8;
 }
 
 .div4 h2 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 29px;
   padding-top: 70px;
-  padding-bottom: 35px;
-  font-size: 1.5em;
-  font-weight: bold;
+  padding-bottom: 25px;
 }
 
 .div4 p {
   padding-left: 85px;
   padding-right: 85px;
   padding-bottom: 70px;
-  line-height: 1.6em;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 29px;
 }
 
 .div5 {
   background-image: url(./img/bg3.jpg);
-  min-height: 520px;
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  /* border: 3px solid red; */
   opacity: 0.7;
 }
 
 .way {
   font-family: "Croissant One", cursive;
   font-family: "Lato", sans-serif;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
   position: absolute;
@@ -139,7 +140,6 @@ img {
   font-family: "Croissant One", cursive;
   font-family: "Lato", sans-serif;
   display: block;
-  /* color: #666; */
   opacity: 0.7;
 }
 
@@ -159,13 +159,12 @@ img {
 
 .div7 {
   background-image: url(./img/bg4.jpg);
-  min-height: 520px;
+  height: 80vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  /* border: 3px solid red; */
   opacity: 0.7;
 }
 
@@ -213,12 +212,12 @@ img {
 
 .div9 {
   background-image: url(./img/bg.jpg);
-  min-height: 650px;
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-   position: relative;
+  position: relative;
   opacity: 0.7;
 }
 
@@ -239,5 +238,4 @@ img {
   /* font-size: 3rem; */
   outline: 0.5rem inset purple;
   outline-offset: 1rem;
-  
 }
