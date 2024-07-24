@@ -29,7 +29,7 @@ Bu proje, Clarusway tarafından sunulan, HTML, CSS ve paralaks efektleri için b
 
 ## Kullanılan Teknolojiler
 
--HTML5
+- HTML5
 - CSS3 (Flexbox ve Grid dahil)
 - Duyarlı tasarım
 - Google Fonts API
