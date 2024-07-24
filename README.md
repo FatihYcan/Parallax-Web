@@ -1,6 +1,6 @@
 # Parallax Website
 
-This project is a parallax website showcasing various educational programs offered by Clarusway, designed with HTML, CSS, and some JavaScript for parallax effects.
+This project is a website designed using HTML and CSS offered by Clarusway, showing educational programs enriched with parallax effects.
 
 ## Features
 
@@ -18,7 +18,7 @@ This project is a parallax website showcasing various educational programs offer
 
 # Paralaks Web Sitesi
 
-Bu proje, Clarusway tarafından sunulan, HTML, CSS ve paralaks efektleri için bazı JavaScript ile tasarlanmış çeşitli eğitim programlarını gösteren bir paralaks web sitesidir.
+Bu proje, Clarusway tarafından sunulan HTML ve CSS kullanılarak tasarlanmış, paralaks efektleri ile zenginleştirilmiş bir eğitim programlarını gösteren web sitesidir.
 
 ## Özellikler
 
