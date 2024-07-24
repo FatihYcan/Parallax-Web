@@ -34,6 +34,6 @@ Bu proje, Clarusway tarafından sunulan, HTML, CSS ve paralaks efektleri için b
 - Duyarlı tasarım
 - Google Fonts API
 
-![Cw](./img/cw.jpg)
+![Cw](./img/cwcw.jpg)
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Parallax-Web/)
