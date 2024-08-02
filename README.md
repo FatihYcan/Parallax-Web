@@ -34,6 +34,7 @@ Bu proje, Clarusway tarafından sunulan HTML ve CSS kullanılarak tasarlanmış,
 - Duyarlı tasarım
 - Google Fonts API
 
-![Cw](./img/cwcw.jpg)
+
+https://github.com/user-attachments/assets/3167b4db-24bd-4733-bd48-bfe6907b9240
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/Parallax-Web/)
