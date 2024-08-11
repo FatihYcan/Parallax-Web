@@ -1,38 +1,38 @@
 # Parallax Website
 
-This project is a website designed using HTML and CSS offered by Clarusway, showing educational programs enriched with parallax effects.
+This project is a website that showcases various courses and information using a parallax effect. The website promotes the training programs offered by Clarusway. Each chapter is designed with visual backgrounds and texts.
 
 ## Features
 
-- **Parallax Scrolling:** Enhances visual appeal and user engagement.
-- **Responsive Design:** Ensures compatibility across various devices.
-- **Educational Content:** Provides detailed information about Clarusway's programs.
-- **Stylish UI:** Uses modern fonts and design elements for a professional look.
+- **Parallax Effect**: The background image moves when the page is scrolled.
+- **Responsive Design**: Compatible appearance on different devices.
+- **Modern Font Usage**: `Croissant One` and `Lato` fonts from Google Fonts.
+- **Visual Backgrounds**: High quality images in the background of the episodes.
 
-## Technologies Used
+## Technologies
 
 - HTML5
-- CSS3 (including Flexbox and Grid)
-- Responsive Design
-- Google Fonts API
+- CSS3
+- Google Fonts
+- Responsive design
 
-# Paralaks Web Sitesi
+# Parallax Website
 
-Bu proje, Clarusway tarafından sunulan HTML ve CSS kullanılarak tasarlanmış, paralaks efektleri ile zenginleştirilmiş bir eğitim programlarını gösteren web sitesidir.
+Bu proje, bir parallax efekti kullanarak çeşitli kurslar ve bilgileri sergileyen bir web sitesidir. Web sitesinde, Clarusway'in sunduğu eğitim programlarının tanıtımı yapılmaktadır. Her bölüm, görsel arka planlar ve metinler ile tasarlanmıştır.
 
 ## Özellikler
 
-- **Paralaks Kaydırma:** Görsel çekiciliği ve kullanıcı etkileşimini artırır.
-- **Duyarlı Tasarım:** Çeşitli cihazlar arasında uyumluluk sağlar.
-- **Eğitici İçerik:** Clarusway'in programları hakkında ayrıntılı bilgi sağlar.
-- **Şık kullanıcı arayüzü:** Profesyonel bir görünüm için modern yazı tipleri ve tasarım öğeleri kullanır.
+- **Parallax Etkisi**: Sayfa kaydırıldığında arka plan görüntüsünün hareket etmesi.
+- **Responsive Tasarım**: Farklı cihazlarda uyumlu görünüm.
+- **Modern Font Kullanımı**: Google Fonts'tan `Croissant One` ve `Lato` fontları.
+- **Görsel Arka Planlar**: Bölümlerin arka planında yüksek kaliteli görseller.
 
-## Kullanılan Teknolojiler
+## Teknolojiler
 
 - HTML5
-- CSS3 (Flexbox ve Grid dahil)
+- CSS3
+- Google Fonts
 - Duyarlı tasarım
-- Google Fonts API
 
 
 https://github.com/user-attachments/assets/3167b4db-24bd-4733-bd48-bfe6907b9240
